@@ -1,0 +1,17 @@
+package multiex;
+
+public class Main22 {
+
+	public static void main(String[] args) {
+		int[] ddochy = new int [] {75, 82, 91};
+		int sum1 = 0;
+		for ( int i = 0; i < ddochy.length; i++) {
+			sum1 += ddochy[i];
+			
+		float avg1 = (sum1 / ddochy.length);
+		System.out.println("ddochy : " + avg1);
+
+}
+	}
+	}
+	

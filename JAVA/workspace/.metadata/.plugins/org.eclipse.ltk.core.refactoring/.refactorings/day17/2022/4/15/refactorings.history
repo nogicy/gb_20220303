@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;DatePrinter.java&apos; to &apos;project_KYM/src/exercise_record_application&apos;&#x0D;&#x0A;- Original project: &apos;day17&apos;&#x0D;&#x0A;- Destination element: &apos;project_KYM/src/exercise_record_application&apos;&#x0D;&#x0A;- Original element: &apos;calendar.DatePrinter.java&apos;" description="Copy compilation unit" destination="=project_KYM/src&lt;exercise_record_application" element1="/src&lt;calendar{DatePrinter.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1649210750911" units="1" version="1.0"/>
+</session>

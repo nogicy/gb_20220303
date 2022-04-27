@@ -1,0 +1,14 @@
+package multiex;
+
+public class Main22 {
+
+	public static void main(String[] args) {
+		int dooly_kor = 75;
+		  int dooly_eng = 82;
+		  int dooly_math = 91;
+		  System.out.println(
+			(dooly_kor+dooly_eng+dooly_math)/3);
+}
+	}
+	
+	

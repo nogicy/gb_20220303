@@ -1,0 +1,16 @@
+package classname;
+
+public class Havr {
+
+	public static void main(String[] args) {
+		int i =0;
+		while (true) {
+			i++;
+		if( i >= 10) {
+			System.out.println(" 끝이야 ");
+		}
+			System.out.println(" 안녕 ?");
+		}
+	}
+
+}

@@ -1,0 +1,11 @@
+package multiex;
+
+public class Main22 {
+
+	public static void main(String[] args) {
+		  int[][] num;
+		  int [][] num1 = new int [2][3];
+	}
+	}
+	
+	

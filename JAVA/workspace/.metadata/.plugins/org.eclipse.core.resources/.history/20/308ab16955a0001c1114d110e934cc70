@@ -1,0 +1,13 @@
+package multiex;
+
+public class Main22 {
+
+	public static void main(String[] args) {
+		 int ddochy_kor = 75;
+		  int ddochy_eng = 82;
+		  int ddochy_math = 91;
+		  System.out.println(" ddochy : " + (ddochy_kor+ddochy_eng+ddochy_math)/3);
+	}
+	}
+	
+	

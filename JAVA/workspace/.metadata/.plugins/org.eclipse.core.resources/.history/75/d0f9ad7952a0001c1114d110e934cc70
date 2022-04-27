@@ -1,0 +1,15 @@
+package multiex;
+
+public class Main22 {
+
+	public static void main(String[] args) {
+		int sum = 0;
+		int[] ddochy = new int [] {75, 82, 91};
+		for ( int i = 0; i < ddochy.length; i++) {
+			sum += ddochy[i];
+		}
+		System.out.println("ddochy : " + (sum / ddochy.length));
+		}
+	}
+	
+	

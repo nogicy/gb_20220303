@@ -1,0 +1,49 @@
+package method;
+
+public class Methd_1 {
+
+	public static void main(String[] args) {
+	
+		Stringtype();
+		System.out.println(one());
+		
+		
+		
+	}
+		/*
+		 * 문제 1, "Hello, World~" , " 메서드가 호출되었습니다. " 를
+		 * 출력하는 메서드를 각각 만들어 호출하세요
+	     */
+		
+		public static void Stringtype () { // ver.1
+			System.out.println(" Hello " + " World " + " 메서드가 출력되었습니다. ");
+		}
+		public static String one () { // ver.2
+			return " Hello " + " World " + " 메서드가 출력되었습니다. ";
+		}
+		public static String one1 () {
+			String x = " Hello "; 
+			return x;
+		}
+	
+		/*
+		 * 문제2, 반환값이 없고 받는 인자값이 2개 있는 덧셈 메서드를 구현하여
+		 * 인자값이 2개를 출력하여라
+		 */
+		
+		
+		
+		
+		
+		/*
+		 * 문제3, 반환 값이 있고 받는 인자값이 없는 메서드를 구현하세요.
+		 */
+		
+		
+		/*
+		 * 문제4, 반환값이 있고, 받는 인자값이 있는 메서드를 구현해보세요. 
+		 */
+		
+	
+
+}
